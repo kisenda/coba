@@ -2,6 +2,11 @@ setelah ditambahkan git, menjadi working directory
 
 -m : message
 
+$git log 
+
+$git diff file-pnya-kita         >> diff: difference |bila kita kehilangan isi file.
+$git checkout file-pnya-kita	 >> utk kembali ke file terakhir yg tersimpan di git.
+
 
 
 tetap konsisten! bertahun-tahun.
